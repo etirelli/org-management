@@ -450,6 +450,7 @@ orgs:
         maintainers:
         - LaVLaS
         - VaishnaviHire
+        - etirelli
         privacy: closed
         repos:
           opendatahub-operator: admin
@@ -458,6 +459,7 @@ orgs:
         maintainers:
           - jkoehler-redhat
           - LaVLaS
+          - etirelli
         members:
           - andrewballantyne
           - anishasthana
